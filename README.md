@@ -1,4 +1,4 @@
-﻿# ML_Projects
+﻿# ML_Projects ran in Sagemaker Notebook
 
 This project demonstrates the use of Amazon SageMaker to build, train, and deploy a machine learning model. It includes the process of data preprocessing, model training, hyperparameter tuning, and model deployment within the SageMaker environment.
 Project Overview
